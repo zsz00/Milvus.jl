@@ -1,0 +1,6 @@
+[submodule "src/grpc_gen/milvus-prot"]
+	path = src/grpc_gen/milvus-prot
+	url = https://github.com/milvus-io/milvus-proto.git
+[submodule "src/grpc_gen/milvus-proto"]
+	path = src/grpc_gen/milvus-proto
+	url = https://github.com/milvus-io/milvus-proto.git
